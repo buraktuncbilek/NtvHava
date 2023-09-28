@@ -2,4 +2,4 @@
 
 ###### ⚠ Eğitim Amaçlıdır.
 
-# DEPRICATED! Because ntv hava web page is chanhed.
+# DEPRICATED! Because ntv hava web page is changed.
